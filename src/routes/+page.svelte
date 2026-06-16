@@ -1,5 +1,14 @@
-<h1>ここはホームページです。</h1>
+<script>
+    let name = "いの";
+    let channel = "Youtube　チャネル";
+</script>
 
-<nav>
-    <a href="/about">チャネル紹介見に行く</a>
-</nav>
+
+<h1>Hello. {name}様</h1>
+<p>ここは {channel}です。</p>
+
+<style>
+    h1 {
+        color: orange;
+    }
+</style>

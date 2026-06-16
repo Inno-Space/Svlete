@@ -12,6 +12,8 @@
 {/if}
 <hr />
 
+<h1>LAYOUT</h1>
+
 <footer>
 	2026年Svelte練習ページ作成する。All right reserved
 </footer>
